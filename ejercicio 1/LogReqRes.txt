@@ -1,0 +1,4 @@
+Request: /index.html - Response: 200 - Hora: 1647724373294
+Request: /asd.html - Response: ENOENT: no such file or directory, open 'J:\Documents\Proyectos\Ejercicios Node\ejercicio 1\asd.html' - Hora: 1647724380448
+Request: /index.js - Response: 403 - Hora: 1647724389091
+Request: /index.js - Response: 403 - Hora: 1647724404824
